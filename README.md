@@ -6,10 +6,10 @@ Terrain generation and water simulation in Unity C#. (42 Silicon Valley)
   <img src="https://github.com/ashih42/mod1/blob/master/Screenshots/particle_rain.png" width="420" />
 </p>
 
-Made in Unity version 2018.3.12f1
+Made in Unity version 2018.3.12f1  
 Recommended screen resolution: 1024 x 768
 
-After building the game in Unity, copy `Assets/Maps` to the build directory as `Assets/Maps`.
+After building the game in Unity, copy `Assets/Maps` to `<build_directory>/Assets/Maps`.
 
 ## Releases
 
