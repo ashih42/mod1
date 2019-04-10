@@ -40,7 +40,7 @@ After building the game in Unity, copy `Assets/Maps` to `<build_directory>/Asset
 * Tap `Numpad .` Take 1 step in water-filling simulation.
 * Hold `Numpad 0` Fast-forward water-filling simulation.
 
-### Physics-based Water Controls
+### Particle Water Controls
 * `Particle Size` Adjust water size.
 * `1` Spawn water around 4 edges of terrain.
 * `2` Spawn water along 1 edge of terrain.
