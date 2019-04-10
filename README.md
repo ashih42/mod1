@@ -39,17 +39,14 @@ After building the game in Unity, copy `Assets/Maps` to `<build_directory>/Asset
 * Hold `Numpad 6` Spawn rain.
 * Tap `Numpad .` Take 1 step in water-filling simulation.
 * Hold `Numpad 0` Fast-forward water-filling simulation.
-* Hold `M` Activate Moses.
 
 ### Physics-based Water Controls
 * `Particle Size` Adjust water size.
 * `1` Spawn water around 4 edges of terrain.
 * `2` Spawn water along 1 edge of terrain.
 * `3` Spawn rain.
-* Hold `M` Activate Moses.
 
 ### Monster Controls
-* `P` spawn a toon witch, who does not like water.
+* Tap `P` Spawn a toon witch, who does not like water.
+* Hold `M` Activate Moses.
 * `R` Remove all water and monsters.
-
-
